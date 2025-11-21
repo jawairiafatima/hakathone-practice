@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+ body{
+        background: linear-gradient(90deg, #FFEFBA 0%, #FFFFFF 100%);
+    overflow-x: hidden;
+ }
+ .header{
+    display: flex;
+justify-content: center;
+align-items: center;
+ }
+ .logo img{
+    padding: 30px;
+   margin-top: 0;
+ }
+
+li{
+   list-style: none;
+   text-decoration: none;
+}
+a{
+   color: black;
+}
